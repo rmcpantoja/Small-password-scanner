@@ -1,4 +1,4 @@
-;small pass scanner spanish:
+;small password scanner (spanish):
 ; Me inspiré a hacer esta pequeña herramienta por una página que ahora mismo no recuerdo su nombre ni su WEB, pero escribías una contraseña y el mismo programa te decía qué tal era su fortaleza. Hasta recuerdo que habían mensajes con humor...
 #include <FileConstants.au3>
 $sPassFilePath = @ScriptDir & "\Small Pass Scanner.txt"
